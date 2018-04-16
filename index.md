@@ -1,5 +1,3 @@
-# Courses
-
 These are courses from some of the best schools in the country taken via the [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/) platforms. They led me to put together several interesting [**projects**](https://github.com/carlosror/project_index).
 
 ### Data analysis / Data science
